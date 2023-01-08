@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbtest"
+  site-url: "https://ronaldlens.github.io/nbtest"
+  description: "Playing around with nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/ronaldlens/nbtest"
